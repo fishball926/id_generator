@@ -41,6 +41,3 @@ class id_generate:
         wb.save(r"{}".format(self.file_path))
 
         return
-
-id_generate("C:\\Users\Chew\Desktop\Mae.xlsx", 555, 5, 5)
-#id_generate.write_to_xlsx("C:\\Users\\Chew\\Desktop\\Mae.xlsx", 555, 5, 5)
