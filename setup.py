@@ -8,7 +8,7 @@ setup(
   author = 'Chew Jian Xun',                   # Type in your name
   author_email = 'chewjianxun@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/fishball926',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/fishball926/id_generator/archive/v_0.1.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/fishball926/id_generator/archive/v_0.2.tar.gz',    # I explain this later on
   keywords = ['Excel', 'ID', 'Write'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'openpyxl',
@@ -22,5 +22,6 @@ setup(
     'Programming Language :: Python :: 3.4',
     'Programming Language :: Python :: 3.5',
     'Programming Language :: Python :: 3.6',
+    'Programming Language :: Python :: 3.9',
   ],
 )
